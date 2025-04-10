@@ -12,10 +12,9 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 
 # Author: YOUR NAME
 
-```
-Please write your explanation here...
-
-```
+PARNIA VAFAEIKIA
+The calculation of infection and tracing proportions was straightforward but didn't distinguish between the events as clearly.
+I’ve maintained calculating infection and tracing proportions, but now these proportions are more meaningful because the events are being sampled separately. This allows for a clearer distinction between how infections and traces are attributed to each event type (weddings vs. brunches).
 
 
 ## Criteria
