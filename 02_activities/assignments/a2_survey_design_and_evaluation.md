@@ -44,26 +44,119 @@ The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to identify the main reasons behind the high turnover rate among entry- and lower-level employees at the company. By gathering feedback directly from current and recently departed employees, the company aims to uncover patterns related to job satisfaction, workload, compensation, work-life balance, management, career growth opportunities, and other workplace factors. The ultimate goal is to use this data to inform changes that will enhance employee satisfaction and reduce turnover.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: All current and recently departed entry- and lower-level employees of the company.
+Sampling Frame: A list of employees (both current and former within the last 12 months) obtained from HR records.
+Sampling Units: Individual employees selected from the sampling frame.
+Observational Units: The same individual employees who complete the survey and provide the data being analyzed.
 ```
-
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1- How satisfied are you with your current (or most recent) position at the company?
+
+Very satisfied
+
+Somewhat satisfied
+
+Neutral
+
+Somewhat dissatisfied
+
+Very dissatisfied
+
+2- What were the top three factors that most influenced your decision to stay or leave your position?
+
+Compensation
+
+Management style
+
+Career advancement opportunities
+
+Work-life balance
+
+Company culture
+
+Job training and development
+
+Job security
+
+Other (please specify)
+
+3- Do you feel that you received adequate training and support to perform your job effectively?
+
+Yes
+
+No
+
+Somewhat
+
+4- How would you rate your relationship with your direct supervisor or manager?
+
+Excellent
+
+Good
+
+Fair
+
+Poor
+
+Very poor
+
+5- Do you feel that your work is recognized and valued by the company?
+
+Always
+
+Often
+
+Sometimes
+
+Rarely
+
+Never
+
+6- How well does the company support your professional development and career growth?
+
+Very well
+
+Somewhat well
+
+Not well
+
+Not at all
+
+7- Do you believe your compensation is fair compared to industry standards for your role?
+
+Yes
+
+No
+
+Not sure
+
+8- How manageable is your workload on a regular basis?
+
+Very manageable
+
+Manageable
+
+Slightly overwhelming
+
+Very overwhelming
+
+9- How likely are you to recommend this company as a good place to work to a friend or colleague?
+
+Extremely likely
+
+Likely
+
+Neutral
+
+Unlikely
+
+Extremely unlikely
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +164,12 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+The questions are direct and avoid ambiguous wording, making it easy for participants to respond accurately.
+All questions directly relate to factors known to affect turnover, such as compensation, management, recognition, workload, and career development.
+With 9 questions, the survey is concise enough to encourage high response rates while gathering sufficient information.
+The survey will be anonymous to encourage honest and candid responses, especially from those who may have had negative experiences.
+Neutral language is used to prevent leading respondents toward particular answers.
+The combination of closed and open-ended questions allows HR to quantify common issues and collect detailed suggestions for improvement.
 ```
 
 ## Rubric
