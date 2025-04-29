@@ -54,8 +54,9 @@ Sampling Frame: A list of employees (both current and former within the last 12 
 Sampling Units: Individual employees selected from the sampling frame.
 Observational Units: The same individual employees who complete the survey and provide the data being analyzed.
 ```
+Your 5-10 question survey:
 ```
-How satisfied are you with your current (or most recent) position at the company?
+1- How satisfied are you with your current (or most recent) position at the company?
 
 Very satisfied
 
@@ -67,7 +68,7 @@ Somewhat dissatisfied
 
 Very dissatisfied
 
-What were the top three factors that most influenced your decision to stay or leave your position?
+2- What were the top three factors that most influenced your decision to stay or leave your position?
 
 Compensation
 
@@ -85,7 +86,7 @@ Job security
 
 Other (please specify)
 
-Do you feel that you received adequate training and support to perform your job effectively?
+3- Do you feel that you received adequate training and support to perform your job effectively?
 
 Yes
 
@@ -93,7 +94,7 @@ No
 
 Somewhat
 
-How would you rate your relationship with your direct supervisor or manager?
+4- How would you rate your relationship with your direct supervisor or manager?
 
 Excellent
 
@@ -105,7 +106,7 @@ Poor
 
 Very poor
 
-Do you feel that your work is recognized and valued by the company?
+5- Do you feel that your work is recognized and valued by the company?
 
 Always
 
@@ -117,7 +118,7 @@ Rarely
 
 Never
 
-How well does the company support your professional development and career growth?
+6- How well does the company support your professional development and career growth?
 
 Very well
 
@@ -127,7 +128,7 @@ Not well
 
 Not at all
 
-Do you believe your compensation is fair compared to industry standards for your role?
+7- Do you believe your compensation is fair compared to industry standards for your role?
 
 Yes
 
@@ -135,7 +136,7 @@ No
 
 Not sure
 
-How manageable is your workload on a regular basis?
+8- How manageable is your workload on a regular basis?
 
 Very manageable
 
@@ -145,7 +146,7 @@ Slightly overwhelming
 
 Very overwhelming
 
-How likely are you to recommend this company as a good place to work to a friend or colleague?
+9- How likely are you to recommend this company as a good place to work to a friend or colleague?
 
 Extremely likely
 
